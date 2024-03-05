@@ -1,10 +1,10 @@
-# Responsive Website in React JS with styled components
+# Responsive Webapp in React JS with styled components
 
-Crypto Wallet Landing Page Template
-This template is built using ReactJS, CSS-in-JS styled-components and TypeScript.
+Crypto Wallet responsive landing page.
+Template utilizes ReactJS, CSS-in-JS styled-components, and TypeScript.
 
 ## Demo 🌐
-View Demo: link
+View Demo: https://crypto-wallet-umber.vercel.app/
 
 ## Features ✨
 This landing page template features the following👇:
@@ -29,5 +29,3 @@ In the project directory:
 2. Run the app in development mode:
 
 ### `npm run dev`
-
-
